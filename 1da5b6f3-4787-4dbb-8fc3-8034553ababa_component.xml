@@ -1,0 +1,129 @@
+<chunk name="Object" index="0">
+  <items count="2">
+    <item name="GUID" type_name="gh_guid" type_code="9">f31d8d7a-7536-4ac8-9c96-fde6ecda4d0a</item>
+    <item name="Name" type_name="gh_string" type_code="10">Cluster</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="7">
+        <item name="ClusterDocument" type_name="gh_bytearray" type_code="20">
+          <stream length="1466">zVdrbBRVFJ5td7fd3dKCiEWIMgqIxlBZSiNKIt2HbpfS7tIChSops7O33bG7c8c7M20aMNloeARftZKiqDxUNAENWI21kaRNxag/jK/4QyRKxOAfYkHtH42t985j25mdpUvFwCSb7Jxz7z33fN85371THISsnAK8NI4fG0VRDvwrFZJyG8e3dAAkcpAnrig2Ezd5iskQfV4NYOIAkSEOze3WXeEgMbuwaUnNRx9v2dsc2Q+HR8ZOn3QURRHo4EAn8bux39mYwKvEyzRzHRAT67sEQNyFWuAZmq8eohSTJJ5FSrTezKxGkASsBOIZXy8VvzEIWjmek3AWUQQFgCQOiGSAHfvJ0vYgIylxSFLvn//J5d1zptgTBCKLOEHSkncrWdcCIEQEwOtIUfZ6JgV0f5HM8/g17mrAmyGoiZlxZPe6NQBlFetCHS28r0fxvrVQBZrZuZ5BbUAZeSt+FcfGx7eTkM0QpnSw9/X2rnZsxJkbQrmIJSuMq4EV1jJdUJYmj3WHEJSFrMEloRrfWi6GGKShZdPQchiGkl+ROq5LwUPfu0+WEhDpyMxrgDEMPF3H1gOQpO+gfaIIWQ7jLhaE43qJmB8DuJ4QYkQxAQXMYNHGiaokvrKVFfdWLF/hrVxZ4a1aUenVd2S77nZUcN3saNZEW0RipPoyLJO68qg2A9fE7lTtJDJJRQE4tGGiy+t2nDxdOrqn+oTtq8CnP865xbA9Z6OQAAi4ApCXGI5XJcOuIWLVcPMDCOD8aYYWyUyOZZK0KKNWhgUVJWFelBieBSGZy6DTSi/y/FZZFen76/B7dw5+d59V+OJ6jm2fbC/EdrdPkhAXkyW12DMt6McAxBXTQvI+1BKkqNoARaX9FLXM74hyHVDBZwHxptuwlwl4BAYxqRaOF2QFqCINLKsM3X5GBLSQZHhgmdDB1PZXvAlvoP9Z9s/Bt9a/bkjITiZnpWPzF0eUGKpEKn3ubIQyYgH5S1YdPvT1heffWRh+7hfP7jMD/g89qtvANpmXJyrVW3HedRiVrT6KOuQzobI1hr1NgdIoqUdRwocC1ltG35pScFmBnX6EkUhMLrPsQfYoIyUyJG5b9rg9LIEURU2cUg4FWDKkxqJ1jM/F1fn6J/Nrm4LfGWrN0YiJc7JoSfEX6YEjzcd76vfO7z/f/vS5UWPNNigTs0lumJLk5sfW9Rwq3/nQrlWzy7959WHmapDMXJbk9mtCspOXUzFVS5yT2CpRWcKnndaGTm2OFU0zG4AoJyWOb1OVxroZB5aUNvNb9tW+8GvowF3jrw3npS62xmymrKigroCKdq3f0pgK2qxC1SmFKE2pbVQOpV7+wNt/U5d6/Dt7Ohe5/f/MMyTjiEKOl4xC7bxMmXu1kSKWahYmk+plhoattJRAACyNc/gyKCog0AJZ2roV/OtO3bag9o8Hj9/8SdfRwWN9FnvKwrcgKl11gIdWYAjXYIBrsMwPmWq9eemq4Lv0xmtS6+4AhCjO8dqFtZLK/Wj8F+Ti/+45/eUzvo3WDYx8Pra4CRqLuXjTZjpKtDP7rC7MUQJlTRAl4zSeqIiu9fk8NOLs3n3snkj36MvchbP931sHzeZ40+Y8mUuHMXMhzNwTmLmzZpVKr8PeDVd0QJdFEIe/g0gp5z6lZxaeWvx7rCT8UsfFp37onnvUKAzqCtnCEJlSws398B8lnFqD0w9jcARfdllT1WsVcK7zsr4iWS811qQld+a7kElzLOvRFr36mr5B4yZtyU2Two3W04W5evqmn58J3nD/l4HDVecGj3/WGbS6Shg72qUtMysgixJMWX30ulXX5KWoUs1mwmW6VyDzVWXaV6A8SchcHcwNcjuGuYU0iKL7Gtz2XHCP7eh7Y3aF3f/BI3P3vynUHZn6Y8f9/8Od31XmxcSlJw/s2uY7MTRy0MtGO6d9lTEplvmKlKdi5SKkeptS9zoh/wI=</stream>
+        </item>
+        <item name="Description" type_name="gh_string" type_code="10">Contains a cluster of Grasshopper components</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">1da5b6f3-4787-4dbb-8fc3-8034553ababa</item>
+        <item name="Name" type_name="gh_string" type_code="10">Cluster</item>
+        <item name="NickName" type_name="gh_string" type_code="10">Cluster</item>
+        <item name="PreviewDocument" type_name="gh_bool" type_code="1">false</item>
+      </items>
+      <chunks count="3">
+        <chunk name="ParamMap">
+          <items count="5">
+            <item name="Count" type_name="gh_int32" type_code="3">2</item>
+            <item name="Key" index="0" type_name="gh_guid" type_code="9">4e81303b-834f-444c-ac8d-7f62f6cd8212</item>
+            <item name="Key" index="1" type_name="gh_guid" type_code="9">e8fe5ede-02c5-428a-8db5-e168d637f607</item>
+            <item name="Value" index="0" type_name="gh_guid" type_code="9">9251715a-17a0-4686-873b-1317d29d5b61</item>
+            <item name="Value" index="1" type_name="gh_guid" type_code="9">83f16898-879e-417b-b0c0-ef9f31635077</item>
+          </items>
+        </chunk>
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>824</X>
+              <Y>209</Y>
+              <W>64</W>
+              <H>28</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>855</X>
+              <Y>223</Y>
+            </item>
+          </items>
+        </chunk>
+        <chunk name="ParameterData">
+          <items count="4">
+            <item name="InputCount" type_name="gh_int32" type_code="3">1</item>
+            <item name="InputId" index="0" type_name="gh_guid" type_code="9">3e8ca6be-fda8-4aaf-b5c0-3c54c8bb7312</item>
+            <item name="OutputCount" type_name="gh_int32" type_code="3">1</item>
+            <item name="OutputId" index="0" type_name="gh_guid" type_code="9">deaf8653-5528-4286-807c-3de8b8dad781</item>
+          </items>
+          <chunks count="2">
+            <chunk name="InputParam" index="0">
+              <items count="7">
+                <item name="Description" type_name="gh_string" type_code="10">Sphere radius</item>
+                <item name="InstanceGuid" type_name="gh_guid" type_code="9">4e81303b-834f-444c-ac8d-7f62f6cd8212</item>
+                <item name="Name" type_name="gh_string" type_code="10">Radius</item>
+                <item name="NickName" type_name="gh_string" type_code="10">R</item>
+                <item name="Optional" type_name="gh_bool" type_code="1">true</item>
+                <item name="Source" index="0" type_name="gh_guid" type_code="9">9ab45167-bbf7-45de-a11b-2860d28c4c14</item>
+                <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
+              </items>
+              <chunks count="2">
+                <chunk name="Attributes">
+                  <items count="2">
+                    <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                      <X>826</X>
+                      <Y>211</Y>
+                      <W>14</W>
+                      <H>24</H>
+                    </item>
+                    <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                      <X>834.5</X>
+                      <Y>223</Y>
+                    </item>
+                  </items>
+                </chunk>
+                <chunk name="PersistentData">
+                  <items count="1">
+                    <item name="Count" type_name="gh_int32" type_code="3">1</item>
+                  </items>
+                  <chunks count="1">
+                    <chunk name="Branch" index="0">
+                      <items count="2">
+                        <item name="Count" type_name="gh_int32" type_code="3">1</item>
+                        <item name="Path" type_name="gh_string" type_code="10">{0}</item>
+                      </items>
+                      <chunks count="1">
+                        <chunk name="Item" index="0">
+                          <items count="1">
+                            <item name="number" type_name="gh_double" type_code="6">1</item>
+                          </items>
+                        </chunk>
+                      </chunks>
+                    </chunk>
+                  </chunks>
+                </chunk>
+              </chunks>
+            </chunk>
+            <chunk name="OutputParam" index="0">
+              <items count="6">
+                <item name="Description" type_name="gh_string" type_code="10">Resulting sphere</item>
+                <item name="InstanceGuid" type_name="gh_guid" type_code="9">e8fe5ede-02c5-428a-8db5-e168d637f607</item>
+                <item name="Name" type_name="gh_string" type_code="10">Sphere</item>
+                <item name="NickName" type_name="gh_string" type_code="10">S</item>
+                <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+                <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+              </items>
+              <chunks count="1">
+                <chunk name="Attributes">
+                  <items count="2">
+                    <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                      <X>870</X>
+                      <Y>211</Y>
+                      <W>16</W>
+                      <H>24</H>
+                    </item>
+                    <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                      <X>878</X>
+                      <Y>223</Y>
+                    </item>
+                  </items>
+                </chunk>
+              </chunks>
+            </chunk>
+          </chunks>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>
